@@ -1,0 +1,3 @@
+C:/Users/lapshop/firstbash/cmake-build-debug/CMakeFiles/firstbash.dir
+C:/Users/lapshop/firstbash/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lapshop/firstbash/cmake-build-debug/CMakeFiles/rebuild_cache.dir
